@@ -3,10 +3,10 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2020-07-16</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.23">v1.23</a>
+  <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.25">v1.25</a>
   <div><em>A Chrome and Firefox extension (and user script) for Twitter- always use Latest Tweets, manage retweets and other UI tweaks</em></div>
-  <details><summary>v1.23 release notes</summary><p>New optional feature: hide tweets by or quoting verified accounts, or highlight them if you want to check how much of your timeline content is driven by verified accounts</p>
-<p><a href="https://imgur.com/a/lcqq5bq" rel="nofollow">https://imgur.com/a/lcqq5bq</a></p></details>
+  <details><summary>v1.25 release notes</summary><p>New feature: Hide the "More Tweets" section when viewing an individual tweet from an external link</p>
+<p>Fixed the Verified Accounts feature on profile pages when it's the only timeline feature enabled</p></details>
 </li>
 <li>
   <strong>2020-05-20</strong> – <a href="https://github.com/insin/nwb-less">nwb-less</a> <a href="https://github.com/insin/nwb-less/releases/tag/v0.9.0">v0.9.0</a>
