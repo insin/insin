@@ -3,10 +3,9 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.25">v1.25</a>
-  <div><em>A Chrome and Firefox extension (and user script) for Twitter- always use Latest Tweets, manage retweets and other UI tweaks</em></div>
-  <details><summary>v1.25 release notes</summary><p>New feature: Hide the "More Tweets" section when viewing an individual tweet from an external link</p>
-<p>Fixed the Verified Accounts feature on profile pages when it's the only timeline feature enabled</p></details>
+  <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.26">v1.26</a>
+  <div><em>A Chrome and Firefox extension (and user script) for Twitter - always use Latest Tweets, manage retweets and other UI tweaks</em></div>
+  <details><summary>v1.26 release notes</summary><p>Made the Hide "More Tweets" feature less janky - tweets from external links now immediately switch to the full thread view</p></details>
 </li>
 <li>
   <strong>2020-05-20</strong> – <a href="https://github.com/insin/nwb-less">nwb-less</a> <a href="https://github.com/insin/nwb-less/releases/tag/v0.9.0">v0.9.0</a>
