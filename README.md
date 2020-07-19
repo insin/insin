@@ -3,6 +3,29 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2020-07-19</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.0">v1.4.0</a>
+  <div><em>A VLC remote control written with Flutter</em></div>
+  <details><summary>v1.4.0 release notes</summary><p>Added:</p>
+<ul>
+<li>Equalizer</li>
+<li>Playback Speed control</li>
+<li>Take Snapshot menu item</li>
+<li>Scrollbar in playlist and file browser</li>
+</ul>
+<p>Changed:</p>
+<ul>
+<li>Moved Settings to the menu</li>
+<li>Moved Repeat and Loop from the menu to the main playback controls</li>
+<li>Open Media is now a playlist floating action button</li>
+<li>Stop is now a long press on the play button</li>
+<li>Toggling mute now counts as interacting with volume controls</li>
+</ul>
+<p>Fixed:</p>
+<ul>
+<li>Background image-related crash if VLC is already playing audio on start</li>
+</ul></details>
+</li>
+<li>
   <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.26">v1.26</a>
   <div><em>A Chrome and Firefox extension (and user script) for Twitter - always use Latest Tweets, manage retweets and other UI tweaks</em></div>
   <details><summary>v1.26 release notes</summary><p>Made the Hide "More Tweets" feature less janky - tweets from external links now immediately switch to the full thread view</p></details>
@@ -31,11 +54,6 @@
   <div><em>A Tabata training interval timer written with Flutter.</em></div>
   <details><summary>v1.4.1 release notes</summary><p>Rebuilt after <code>flutter clean</code> as suggested here:</p>
 <p><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="619713986" data-permission-text="Title is private" data-url="https://github.com/flutter/flutter/issues/57436" data-hovercard-type="issue" data-hovercard-url="/flutter/flutter/issues/57436/hovercard" href="https://github.com/flutter/flutter/issues/57436">flutter/flutter#57436</a></p></details>
-</li>
-<li>
-  <strong>2020-05-16</strong> – <a href="https://github.com/insin/react-auto-form">react-auto-form</a> <a href="https://github.com/insin/react-auto-form/releases/tag/v3.0.0">v3.0.0</a>
-  <div><em>Simplifies getting user input from forms via onChange and onSubmit events, using DOM forms APIs</em></div>
-  <details><summary>v3.0.0 release notes</summary><p>Breaking change: updated to <a href="https://github.com/insin/get-form-data/blob/master/CHANGES.md#300--2020-03-10">get-form-data@3</a> - checkbox inputs without a <code>value</code> will now return <code>true</code> as their value when checked, instead of <code>'on'</code>.</p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
