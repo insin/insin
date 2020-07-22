@@ -3,26 +3,13 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2020-07-19</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.0">v1.4.0</a>
+  <strong>2020-07-22</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.1">v1.4.1</a>
   <div><em>A VLC remote control written with Flutter</em></div>
-  <details><summary>v1.4.0 release notes</summary><p>Added:</p>
+  <details><summary>v1.4.1 release notes</summary><p>Fixed:</p>
 <ul>
-<li>Equalizer</li>
-<li>Playback Speed control</li>
-<li>Take Snapshot menu item</li>
-<li>Scrollbar in playlist and file browser</li>
-</ul>
-<p>Changed:</p>
-<ul>
-<li>Moved Settings to the menu</li>
-<li>Moved Repeat and Loop from the menu to the main playback controls</li>
-<li>Open Media is now a playlist floating action button</li>
-<li>Stop is now a long press on the play button</li>
-<li>Toggling mute now counts as interacting with volume controls</li>
-</ul>
-<p>Fixed:</p>
-<ul>
-<li>Background image-related crash if VLC is already playing audio on start</li>
+<li>Fix being able to put the playback rate below 0.25 and above 4.0 using the button controls</li>
+<li>Fix selection of subtitle and audio tracks when VLC is using a non-English language</li>
+<li>Subtitle and audio tracks are now be available for selection regardless of which metadata is available to describe them</li>
 </ul></details>
 </li>
 <li>
