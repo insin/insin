@@ -3,14 +3,17 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2020-07-22</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.1">v1.4.1</a>
-  <div><em>A VLC remote control written with Flutter</em></div>
-  <details><summary>v1.4.1 release notes</summary><p>Fixed:</p>
+  <strong>2020-07-23</strong> – <a href="https://github.com/insin/babel-plugin-react-html-attrs">babel-plugin-react-html-attrs</a> <a href="https://github.com/insin/babel-plugin-react-html-attrs/releases/tag/v3.0.5">v3.0.5</a>
+  <div><em>Babel plugin which transforms HTML and SVG attributes on JSX host elements into React-compatible attributes</em></div>
+  <details><summary>v3.0.5 release notes</summary><p>Fixed:</p>
 <ul>
-<li>Fix being able to put the playback rate below 0.25 and above 4.0 using the button controls</li>
-<li>Fix selection of subtitle and audio tracks when VLC is using a non-English language</li>
-<li>Subtitle and audio tracks are now be available for selection regardless of which metadata is available to describe them</li>
+<li>Ignore non-JSXAttribute attribute nodes - fixes "Cannot read property 'type' of undefined" error when using spread attributes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="661688447" data-permission-text="Title is private" data-url="https://github.com/insin/babel-plugin-react-html-attrs/issues/16" data-hovercard-type="issue" data-hovercard-url="/insin/babel-plugin-react-html-attrs/issues/16/hovercard" href="https://github.com/insin/babel-plugin-react-html-attrs/issues/16">#16</a>)</li>
 </ul></details>
+</li>
+<li>
+  <strong>2020-07-23</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.2">v1.4.2</a>
+  <div><em>A VLC remote control written with Flutter</em></div>
+  <details><summary>v1.4.2 release notes</summary><p>Added a button to access settings when trying to connect to VLC after initial configuration</p></details>
 </li>
 <li>
   <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.26">v1.26</a>
@@ -35,12 +38,6 @@
 <ul>
 <li>Bumped Node.js version in templates.</li>
 </ul></details>
-</li>
-<li>
-  <strong>2020-05-17</strong> – <a href="https://github.com/insin/tabata_timer">tabata_timer</a> <a href="https://github.com/insin/tabata_timer/releases/tag/v1.4.1">v1.4.1</a>
-  <div><em>A Tabata training interval timer written with Flutter.</em></div>
-  <details><summary>v1.4.1 release notes</summary><p>Rebuilt after <code>flutter clean</code> as suggested here:</p>
-<p><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="619713986" data-permission-text="Title is private" data-url="https://github.com/flutter/flutter/issues/57436" data-hovercard-type="issue" data-hovercard-url="/flutter/flutter/issues/57436/hovercard" href="https://github.com/flutter/flutter/issues/57436">flutter/flutter#57436</a></p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
