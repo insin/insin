@@ -3,6 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2020-08-12</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.0">v1.0</a>
+  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, block users, and other UX tweaks</em></div>
+  <details><summary>v1.0 release notes</summary><p>Initial release</p></details>
+</li>
+<li>
   <strong>2020-07-23</strong> – <a href="https://github.com/insin/babel-plugin-react-html-attrs">babel-plugin-react-html-attrs</a> <a href="https://github.com/insin/babel-plugin-react-html-attrs/releases/tag/v3.0.5">v3.0.5</a>
   <div><em>Babel plugin which transforms HTML and SVG attributes on JSX host elements into React-compatible attributes</em></div>
   <details><summary>v3.0.5 release notes</summary><p>Fixed:</p>
@@ -29,14 +34,6 @@
 <li><code>less-loader</code> now handles the <code>less</code> dependency itself</li>
 </ul>
 </li>
-</ul></details>
-</li>
-<li>
-  <strong>2020-05-20</strong> – <a href="https://github.com/insin/nwb">nwb</a> <a href="https://github.com/insin/nwb/releases/tag/v0.25.2">v0.25.2</a>
-  <div><em>A toolkit for React, Preact, Inferno &amp; vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)</em></div>
-  <details><summary>v0.25.2 release notes</summary><h2>Fixed</h2>
-<ul>
-<li>Bumped Node.js version in templates.</li>
 </ul></details>
 </li>
 </ul>
