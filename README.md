@@ -11,6 +11,14 @@
 </ul></details>
 </li>
 <li>
+  <strong>2020-07-23</strong> – <a href="https://github.com/insin/babel-plugin-react-html-attrs">babel-plugin-react-html-attrs</a> <a href="https://github.com/insin/babel-plugin-react-html-attrs/releases/tag/v3.0.5">v3.0.5</a>
+  <div><em>Babel plugin which transforms HTML and SVG attributes on JSX host elements into React-compatible attributes</em></div>
+  <details><summary>v3.0.5 release notes</summary><p>Fixed:</p>
+<ul>
+<li>Ignore non-JSXAttribute attribute nodes - fixes "Cannot read property 'type' of undefined" error when using spread attributes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="661688447" data-permission-text="Title is private" data-url="https://github.com/insin/babel-plugin-react-html-attrs/issues/16" data-hovercard-type="issue" data-hovercard-url="/insin/babel-plugin-react-html-attrs/issues/16/hovercard" href="https://github.com/insin/babel-plugin-react-html-attrs/issues/16">#16</a>)</li>
+</ul></details>
+</li>
+<li>
   <strong>2020-07-23</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.2">v1.4.2</a>
   <div><em>A VLC remote control written with Flutter</em></div>
   <details><summary>v1.4.2 release notes</summary><p>Added a button to access settings when trying to connect to VLC after initial configuration</p></details>
@@ -29,14 +37,6 @@
 <li><code>less-loader</code> now handles the <code>less</code> dependency itself</li>
 </ul>
 </li>
-</ul></details>
-</li>
-<li>
-  <strong>2020-05-20</strong> – <a href="https://github.com/insin/nwb">nwb</a> <a href="https://github.com/insin/nwb/releases/tag/v0.25.2">v0.25.2</a>
-  <div><em>A toolkit for React, Preact, Inferno &amp; vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)</em></div>
-  <details><summary>v0.25.2 release notes</summary><h2>Fixed</h2>
-<ul>
-<li>Bumped Node.js version in templates.</li>
 </ul></details>
 </li>
 </ul>
