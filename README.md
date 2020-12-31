@@ -3,11 +3,10 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2020-11-22</strong> – <a href="https://github.com/insin/tabata_timer">tabata_timer</a> <a href="https://github.com/insin/tabata_timer/releases/tag/v1.4.2">v1.4.2</a>
+  <strong>2020-12-31</strong> – <a href="https://github.com/insin/tabata_timer">tabata_timer</a> <a href="https://github.com/insin/tabata_timer/releases/tag/v1.4.3">v1.4.3</a>
   <div><em>A Tabata training interval timer written with Flutter.</em></div>
-  <details><summary>v1.4.2 release notes</summary><ul>
-<li>Made fonts larger and reduced amount of detail to make the app legible from further away during a workout</li>
-<li>Fixed a bug where finishing a workout in night mode would result in a blank screen</li>
+  <details><summary>v1.4.3 release notes</summary><ul>
+<li>Fixed a bug where audio would cut out after a few minutes</li>
 </ul></details>
 </li>
 <li>
