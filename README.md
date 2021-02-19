@@ -29,7 +29,7 @@
 </li>
 <li>
   <strong>2020-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.26">v1.26</a>
-  <div><em>A Chrome and Firefox extension (and user script) for Twitter - always use Latest Tweets, manage retweets and other UI tweaks</em></div>
+  <div><em>A Firefox, Edge and Chrome extension (and user script) for Twitter - always use Latest Tweets, manage retweets and other UI tweaks</em></div>
   <details><summary>v1.26 release notes</summary><p>Made the Hide "More Tweets" feature less janky - tweets from external links now immediately switch to the full thread view</p></details>
 </li>
 </ul>
