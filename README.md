@@ -3,6 +3,19 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2021-03-25</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.27">v1.27</a>
+  <div><em>A Firefox, Edge and Chrome extension (and user script) for Twitter - always use Latest Tweets, manage retweets and other UI tweaks</em></div>
+  <details><summary>v1.27 release notes</summary><h2>Fixed</h2>
+<ul>
+<li>Fixed the entire sidebar being hidden when "Hide sidebar content" is enabled</li>
+</ul>
+<h2>Internal</h2>
+<ul>
+<li>Only update a timeline element's style if it doesn't already match what we want to do</li>
+<li>Added debug logging of the time it took for elements to appear</li>
+</ul></details>
+</li>
+<li>
   <strong>2021-03-08</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.3">v1.3</a>
   <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
   <details><summary>v1.3 release notes</summary><ul>
@@ -28,11 +41,6 @@
 <ul>
 <li>Ignore non-JSXAttribute attribute nodes - fixes "Cannot read property 'type' of undefined" error when using spread attributes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="661688447" data-permission-text="Title is private" data-url="https://github.com/insin/babel-plugin-react-html-attrs/issues/16" data-hovercard-type="issue" data-hovercard-url="/insin/babel-plugin-react-html-attrs/issues/16/hovercard" href="https://github.com/insin/babel-plugin-react-html-attrs/issues/16">#16</a>)</li>
 </ul></details>
-</li>
-<li>
-  <strong>2020-07-23</strong> – <a href="https://github.com/insin/vlc_remote">vlc_remote</a> <a href="https://github.com/insin/vlc_remote/releases/tag/v1.4.2">v1.4.2</a>
-  <div><em>A VLC remote control written with Flutter</em></div>
-  <details><summary>v1.4.2 release notes</summary><p>Added a button to access settings when trying to connect to VLC after initial configuration</p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
