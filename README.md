@@ -16,10 +16,10 @@
 </ul></details>
 </li>
 <li>
-  <strong>2021-03-08</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.3">v1.3</a>
-  <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
-  <details><summary>v1.3 release notes</summary><ul>
-<li>Topics created by globally-ignored users are now hidden</li>
+  <strong>2020-12-31</strong> – <a href="https://github.com/insin/tabata_timer">tabata_timer</a> <a href="https://github.com/insin/tabata_timer/releases/tag/v1.4.3">v1.4.3</a>
+  <div><em>A Tabata training interval timer written with Flutter.</em></div>
+  <details><summary>v1.4.3 release notes</summary><ul>
+<li>Fixed a bug where audio would cut out after a few minutes</li>
 </ul></details>
 </li>
 <li>
