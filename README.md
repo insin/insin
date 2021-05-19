@@ -3,6 +3,13 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2021-05-19</strong> – <a href="https://github.com/insin/cookdandbombd-really-ignore-users">cookdandbombd-really-ignore-users</a> <a href="https://github.com/insin/cookdandbombd-really-ignore-users/releases/tag/v1.1">v1.1</a>
+  <div><em>Really ignore ignored users</em></div>
+  <details><summary>v1.1 release notes</summary><ul>
+<li>Implemented ignore functionality for non-logged-in users</li>
+</ul></details>
+</li>
+<li>
   <strong>2021-05-14</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.0">v1.0</a>
   <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
   <details><summary>v1.0 release notes</summary><p>Initial version</p></details>
@@ -35,13 +42,6 @@
   <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
   <details><summary>v1.3 release notes</summary><ul>
 <li>Topics created by globally-ignored users are now hidden</li>
-</ul></details>
-</li>
-<li>
-  <strong>2020-12-31</strong> – <a href="https://github.com/insin/tabata_timer">tabata_timer</a> <a href="https://github.com/insin/tabata_timer/releases/tag/v1.4.3">v1.4.3</a>
-  <div><em>A Tabata training interval timer written with Flutter.</em></div>
-  <details><summary>v1.4.3 release notes</summary><ul>
-<li>Fixed a bug where audio would cut out after a few minutes</li>
 </ul></details>
 </li>
 </ul>
