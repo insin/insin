@@ -3,16 +3,20 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
+  <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
+  <details><summary>v1.4 release notes</summary><p>Updated for Invision 4.6</p>
+<ul>
+<li>Fixed addition of "Ignore In This Topic" button to user hovercards</li>
+<li>Fixed hiding the unread comment separator if all new posts are hidden</li>
+</ul></details>
+</li>
+<li>
   <strong>2021-05-19</strong> – <a href="https://github.com/insin/cookdandbombd-really-ignore-users">cookdandbombd-really-ignore-users</a> <a href="https://github.com/insin/cookdandbombd-really-ignore-users/releases/tag/v1.1">v1.1</a>
   <div><em>Really ignore ignored users</em></div>
   <details><summary>v1.1 release notes</summary><ul>
 <li>Implemented ignore functionality for non-logged-in users</li>
 </ul></details>
-</li>
-<li>
-  <strong>2021-05-14</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.0">v1.0</a>
-  <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
-  <details><summary>v1.0 release notes</summary><p>Initial version</p></details>
 </li>
 <li>
   <strong>2021-04-01</strong> – <a href="https://github.com/insin/babel-preset-proposals">babel-preset-proposals</a> <a href="https://github.com/insin/babel-preset-proposals/releases/tag/v0.4.0">v0.4.0</a>
@@ -38,11 +42,9 @@
 </ul></details>
 </li>
 <li>
-  <strong>2021-03-08</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.3">v1.3</a>
-  <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
-  <details><summary>v1.3 release notes</summary><ul>
-<li>Topics created by globally-ignored users are now hidden</li>
-</ul></details>
+  <strong>2020-08-12</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.0">v1.0</a>
+  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, block users, and other UX tweaks</em></div>
+  <details><summary>v1.0 release notes</summary><p>Initial release</p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
