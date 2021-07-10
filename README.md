@@ -19,6 +19,11 @@
 </ul></details>
 </li>
 <li>
+  <strong>2021-05-14</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.0">v1.0</a>
+  <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
+  <details><summary>v1.0 release notes</summary><p>Initial version</p></details>
+</li>
+<li>
   <strong>2021-04-01</strong> – <a href="https://github.com/insin/babel-preset-proposals">babel-preset-proposals</a> <a href="https://github.com/insin/babel-preset-proposals/releases/tag/v0.4.0">v0.4.0</a>
   <div><em>A Babel 7 preset to manage experimental proposal plugin dependencies and usage</em></div>
   <details><summary>v0.4.0 release notes</summary><ul>
@@ -40,11 +45,6 @@
 <li>Only update a timeline element's style if it doesn't already match what we want to do</li>
 <li>Added debug logging of the time it took for elements to appear</li>
 </ul></details>
-</li>
-<li>
-  <strong>2020-08-12</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.0">v1.0</a>
-  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, block users, and other UX tweaks</em></div>
-  <details><summary>v1.0 release notes</summary><p>Initial release</p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
