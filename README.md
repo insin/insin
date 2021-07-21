@@ -3,27 +3,10 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-07-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v1.28">v1.28</a>
-  <div><em>Browser extension which reduces algorithmic content on Twitter, hides toxic trends in the sidebar, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v1.28 release notes</summary><h2>New</h2>
-<ul>
-<li>Quote Tweets can now be hidden or moved to a separate timeline [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="944036040" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/45" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/45/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/45">#45</a>]</li>
-<li>Improve the Quote Tweets page (viewing an individual tweet's QTs) by pinning the quoted tweet to the top instead of duplicating it in every tweet [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="940456381" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/43" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/43/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/43">#43</a>]</li>
-</ul>
-<h2>Changed</h2>
-<ul>
-<li>Extension options have been redesigned, grouping related options and allowing you to turn groups of them on and off all at once</li>
-</ul>
-<h2>Fixed</h2>
-<ul>
-<li>Fixed the extension not working on the current page after changing the theme or background color in the "Customise your view" dialog</li>
-<li>Fixed hiding the algorithmic "More tweets" section when an individual tweet is viewed via certain internal links [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="745042725" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/32" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/32/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/32">#32</a>]</li>
-<li>When hiding the account switcher, leave the ellipsis menu button visible, as it's the only way to log out [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="941698155" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/44" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/44/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/44">#44</a>]</li>
-</ul>
-<h2>Other changes</h2>
-<ul>
-<li>Added <a href="https://github.com/insin/tweak-new-twitter/blob/master/CONTRIBUTING.md#development-of-tweak-new-twitter">CONTRIBUTING.md</a> [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="854089556" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/35" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/35/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/35">#35</a>]</li>
-<li>Fix option page scaling in mobile for future Firefox Android version</li>
+  <strong>2021-07-21</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.1">v2.1</a>
+  <div><em>Browser extension which reduces algorithmic content on Twitter, hides trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
+  <details><summary>v2.1 release notes</summary><ul>
+<li>Improved method of hiding sidebar content on desktop, no more loading indicators!</li>
 </ul></details>
 </li>
 <li>
