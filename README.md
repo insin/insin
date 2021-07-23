@@ -3,10 +3,12 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-07-21</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.1">v2.1</a>
+  <strong>2021-07-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.2">v2.2</a>
   <div><em>Browser extension which reduces algorithmic content on Twitter, hides trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.1 release notes</summary><ul>
-<li>Improved method of hiding sidebar content on desktop, no more loading indicators!</li>
+  <details><summary>v2.2 release notes</summary><h2>v2.2 adds support for all 48 of the display languages available on Twitter</h2>
+<ul>
+<li>Improved popup detection on desktop - the fast blocking and "Add muted word" menu item features are now more reliable</li>
+<li>Fixed sidebar contents being displayed when you view details of likes your tweets have received</li>
 </ul></details>
 </li>
 <li>
