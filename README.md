@@ -3,12 +3,29 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-07-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.2">v2.2</a>
-  <div><em>Browser extension which reduces algorithmic content on Twitter, hides trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.2 release notes</summary><h2>v2.2 adds support for all 48 of the display languages available on Twitter</h2>
+  <strong>2021-07-24</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.3">v2.3</a>
+  <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
+  <details><summary>v2.3 release notes</summary><h2>New</h2>
 <ul>
-<li>Improved popup detection on desktop - the fast blocking and "Add muted word" menu item features are now more reliable</li>
-<li>Fixed sidebar contents being displayed when you view details of likes your tweets have received</li>
+<li>Hide the share button under tweets (now hidden by default)</li>
+<li>Hide the analytics links under your own tweets (now hidden by default)</li>
+<li>Hide "liked" and "replied" algorithmic tweets on the Home timeline, if you use it (now hidden by default)</li>
+<li>Added a new category of features in the options UI - Experiments - which are disabled by default</li>
+<li>New experiment feature: hiding metrics - hides like, retweet, quote tweet and follower counts</li>
+<li>New experiment feature: reduced interaction mode - hides the action bar under tweets, so replies are now the only means of interacting</li>
+<li>Added "Shared Tweets" translations for all languages</li>
+</ul>
+<h2>Changed</h2>
+<ul>
+<li>The sparkle button on the main timeline is now hidden when always using the Latest Tweets timeline, as switching to Home will just result in you immediately getting switched back to Latest Tweets</li>
+<li>Navigating away from the Retweets/separated tweets timeline and navigating back to <code>/home</code> <em>without</em> using the Home navigation link will now restore display of the Retweets/separated tweets timeline</li>
+<li>Made detection of verified accounts broader so it picks up tweets which quote verified accounts</li>
+<li>The theme colour is now used in the mobile timeline switcher icon</li>
+</ul>
+<h2>Fixed</h2>
+<ul>
+<li>Fixed automatically switching to Latest Tweets on mobile</li>
+<li>Fixed Greek "Quote Tweets" translation</li>
 </ul></details>
 </li>
 <li>
