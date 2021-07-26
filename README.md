@@ -3,9 +3,13 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-07-25</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.3.1">v2.3.1</a>
+  <strong>2021-07-26</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.3.2">v2.3.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.3.1 release notes</summary><p>Fixed typo in detection of "replied" algorithmic tweets on Home timeline</p></details>
+  <details><summary>v2.3.2 release notes</summary><ul>
+<li>Turn hiding share buttons and analytics links off by default</li>
+<li>Hide "You might like" in sidebar when viewing a blocked account's profile</li>
+<li>Hide "Suggested" on profile pages, which slides in when you follow/unfollow</li>
+</ul></details>
 </li>
 <li>
   <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
