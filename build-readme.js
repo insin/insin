@@ -68,7 +68,7 @@ async function main() {
   }`)
 
   const releases = response.viewer.repositories.nodes
-    .filter((repo) => repo.releases.nodes.length > 0)
+    .filter((repo) => repo.releases.nodes.length > 0 && repo.releases.nodes[0].publishedAt != null)
     .sort(sortReposByReleaseDate)
     .slice(0, 5)
     .map(createReleaseHTML)
