@@ -3,16 +3,16 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-08-06</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.5.1">v2.5.1</a>
+  <strong>2021-08-13</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.8">v2.8</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.5.1 release notes</summary><h2>Changed</h2>
+  <details><summary>v2.8 release notes</summary><h2>Added</h2>
 <ul>
-<li>Added Edge-specific styles to the options page to make it match Edge's extension management chrome</li>
+<li>Added an option to keep showing the "Relevant people" section when hiding sidebar content [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="917836565" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/40" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/40/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/40">#40</a>]</li>
 </ul>
 <h2>Fixed</h2>
 <ul>
-<li>Fixed the "You might like" section appearing in the sidebar when viewing the profile of an account which has never tweeted any media</li>
-<li>Made <code>tweak-new-twitter.user.js</code> compatible with user script managers which don't implement or shim the <code>GM</code> API from Greasemonkey, such as <a href="https://apps.apple.com/us/app/userscripts/id1463298887" rel="nofollow">Userscripts for Safari</a></li>
+<li>Fixed fast blocking being broken by recent Twitter changes [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="969632999" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/57" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/57/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/57">#57</a>]</li>
+<li>Added missing Bengali translation for "Shared Tweets"</li>
 </ul></details>
 </li>
 <li>
