@@ -5,7 +5,8 @@
 <li>
   <strong>2021-08-14</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.9">v2.9</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.9 release notes</summary><h2>Added</h2>
+  <details><summary>v2.9 release notes</summary><h2><a href="https://github.com/insin/tweak-new-twitter#tweak-new-twitter">Tweak New Twitter</a> v2.9 Release Notes <a id="user-content-release-notes"></a></h2>
+<h2>Added</h2>
 <ul>
 <li>Uninverting Follow / Following buttons is now enabled by default</li>
 <li>Added a new experiment: full-width content
@@ -30,11 +31,11 @@
 <li>Fixed the border style on uninverted Following buttons</li>
 <li>Reduced the amount of unnecessary re-processing of the current page due to html style changes</li>
 </ul>
-<h2>Screenshots</h2>
+<h2>Screenshots <a id="user-content-screenshots"></a></h2>
 <table>
 <thead>
 <tr>
-<th>Button style: monochrome (default)</th>
+<th>Button style: monochrome</th>
 <th>Button style: themed</th>
 </tr>
 </thead>
