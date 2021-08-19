@@ -3,120 +3,36 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-08-14</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.9">v2.9</a>
+  <strong>2021-08-19</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.10">v2.10</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.9 release notes</summary><h2><a href="https://github.com/insin/tweak-new-twitter#tweak-new-twitter">Tweak New Twitter</a> v2.9 Release Notes <a id="user-content-release-notes"></a></h2>
+  <details><summary>v2.10 release notes</summary><h2><a href="https://github.com/insin/tweak-new-twitter#tweak-new-twitter">Tweak New Twitter</a> v2.10 Release Notes <a id="user-content-release-notes"></a></h2>
 <h2>Added</h2>
 <ul>
-<li>Uninverting Follow / Following buttons is now enabled by default</li>
-<li>Added a new experiment: full-width content
+<li>Added muting of Quote Tweets which quote specific tweets (enabled by default) [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="971572263" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/60" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/60/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/60">#60</a>]
 <ul>
-<li>Makes the main timeline and list timelines take up all the available layout width</li>
-<li>Media &amp; cards default to their normal size, as they take up much more vertical space when full-width, but they can also be made full-width separately</li>
+<li>When enabled, a new "Mute this conversation" item is added to the menu of Quote Tweets in the timeline</li>
+<li>Tweets which are muted for quoting can be viewed and unmuted in the options page</li>
+</ul>
+</li>
+<li>Added hiding of the "Help Center" (hidden by default) and "Keyboard shortcuts" items in the "More" menu [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="970675721" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/59" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/59/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/59">#59</a>]</li>
+<li>Added a "Debug options" section to the options page - to access it, expand "Experiments" and click the "Find yourself wasting too much time on Twitter?" paragraph 5 times
+<ul>
+<li>This includes an option to export your current configuration to include when submitting a bug report</li>
 </ul>
 </li>
 </ul>
-<h2>Changed</h2>
-<ul>
-<li>Moved "Uninvert Follow / Following buttons" to the "UI improvements" options group</li>
-<li>Uninverted "Following" buttons now follow the "Button style" option (monochrome or themed) instead of defaulting to being themed</li>
-<li>Made hiding "More Tweets" when linked to a tweet a bit more aggressive</li>
-<li>Experimental options are now collapsed by default unless you have an experiment active. Click on the "Experiments" label to show/hide them</li>
-</ul>
 <h2>Fixed</h2>
 <ul>
-<li>Fixed an error getting the element containing menus and modals, which could happen when refreshing on certain pages</li>
-<li>Fixed the new Color sometimes not getting picked up when you change it in "Customize your view"</li>
-<li>Fixed the current page not being re-processed if you don't use the "Use normal text font style in navigation bar" option and you change the font size in "Customize your view"</li>
-<li>Fixed the border style on uninverted Following buttons</li>
-<li>Reduced the amount of unnecessary re-processing of the current page due to html style changes</li>
+<li>Fixed the position of the "Add muted word" menu item added to the "More" menu when all the other items <em>aren't</em> being hidden</li>
+<li>Fixed an error getting the sidebar container to observe when "Full-width timeline content" is enabled</li>
 </ul>
-<h2>Screenshots <a id="user-content-screenshots"></a></h2>
-<table>
-<thead>
-<tr>
-<th>Button style: monochrome</th>
-<th>Button style: themed</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470363-5d4e21fd-098f-4584-8d77-521468dade15.png"><img src="https://user-images.githubusercontent.com/226692/129470363-5d4e21fd-098f-4584-8d77-521468dade15.png" alt="" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470367-2ac328b3-ea80-4140-ae70-ec8ccc4b3013.png"><img src="https://user-images.githubusercontent.com/226692/129470367-2ac328b3-ea80-4140-ae70-ec8ccc4b3013.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470731-e94a4f59-d85c-46ed-b503-acede35969cf.png"><img src="https://user-images.githubusercontent.com/226692/129470731-e94a4f59-d85c-46ed-b503-acede35969cf.png" alt="firefox_PX8GtJ48ei" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470733-edd17312-380c-4a59-af18-f3120e4904da.png"><img src="https://user-images.githubusercontent.com/226692/129470733-edd17312-380c-4a59-af18-f3120e4904da.png" alt="ENL36JSyhM" style="max-width:100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470741-5dec972f-72c9-4473-9797-d80eb818f375.png"><img src="https://user-images.githubusercontent.com/226692/129470741-5dec972f-72c9-4473-9797-d80eb818f375.png" alt="k8zhcmjrKb" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470745-e8a55b5c-04e8-4184-ac3d-499ef4498603.png"><img src="https://user-images.githubusercontent.com/226692/129470745-e8a55b5c-04e8-4184-ac3d-499ef4498603.png" alt="QZIIfOg4IJ" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>"Experiments" options collapsed by default</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470426-abfd708a-6cd1-405f-b8fc-b7d7c43eceaa.png"><img src="https://user-images.githubusercontent.com/226692/129470426-abfd708a-6cd1-405f-b8fc-b7d7c43eceaa.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>New "Full-width timeline content" experiment options</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470469-54fd049c-a433-4adf-913b-7f02dcbd7e3d.png"><img src="https://user-images.githubusercontent.com/226692/129470469-54fd049c-a433-4adf-913b-7f02dcbd7e3d.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Full-width timeline at largest size</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470489-f316af44-de85-4235-8eb9-68d6f8db2013.png"><img src="https://user-images.githubusercontent.com/226692/129470489-f316af44-de85-4235-8eb9-68d6f8db2013.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Full-width timeline at the breakpoint where the sidebar disappears</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470499-73c5f2ac-e664-4cfb-afe4-e97fe4d63088.png"><img src="https://user-images.githubusercontent.com/226692/129470499-73c5f2ac-e664-4cfb-afe4-e97fe4d63088.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Full-width timeline with full-width media and cards</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470524-0cacdf68-570a-4246-a2c8-2da203e26716.png"><img src="https://user-images.githubusercontent.com/226692/129470524-0cacdf68-570a-4246-a2c8-2da203e26716.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/129470527-0f119670-c38d-4226-9efd-84ecfcaf27e3.png"><img src="https://user-images.githubusercontent.com/226692/129470527-0f119670-c38d-4226-9efd-84ecfcaf27e3.png" alt="" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table></details>
+<h2>Screenshots etc.</h2>
+<h3>Demo video of muting quote tweets</h3>
+<p><a href="https://www.youtube.com/watch?v=2tHCR2Ciu-E" rel="nofollow"><img src="https://camo.githubusercontent.com/f09ed1d2eb0d4a4569f03e09fd4de6a31146a564fdf2093ab08d45da105e54f8/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f3274484352324369752d452f736464656661756c742e6a7067" alt="Example video of muting quotes of a tweet and unmuting them again" data-canonical-src="https://img.youtube.com/vi/2tHCR2Ciu-E/sddefault.jpg" style="max-width:100%;"></a></p>
+<h3>Even less "More" menu:</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/130051691-dd3d7615-420f-49c8-8697-8313600321aa.png"><img src="https://user-images.githubusercontent.com/226692/130051691-dd3d7615-420f-49c8-8697-8313600321aa.png" alt="" style="max-width:100%;"></a></p>
+<h3>Enabling debug options</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/226692/130052433-d9824d2f-f4a3-4467-b700-e73837fc0c7b.gif"><img src="https://user-images.githubusercontent.com/226692/130052433-d9824d2f-f4a3-4467-b700-e73837fc0c7b.gif" alt="" style="max-width:100%;"></a></p></details>
 </li>
 <li>
   <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
