@@ -3,9 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-09-01</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.11.1">v2.11.1</a>
+  <strong>2021-09-10</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.11.3">v2.11.3</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.11.1 release notes</summary><p>Fixed video stopping when the Messages drawer is hidden by changing how we hide it</p></details>
+  <details><summary>v2.11.3 release notes</summary><p>Fixed detection of tweets with social context (retweets etc.)<br>
+Fixed detection of tweets which are replies</p>
+<p>This fixes handling of Retweets after recent Twitter markup changes</p></details>
 </li>
 <li>
   <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
