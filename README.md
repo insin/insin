@@ -3,6 +3,19 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2021-11-21</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.13">v2.13</a>
+  <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
+  <details><summary>v2.13 release notes</summary><h2>Added</h2>
+<ul>
+<li>"Twitter Blue" and "Twitter for Professionals" can now be hidden in the "More" menu</li>
+</ul>
+<h2>Fixed</h2>
+<ul>
+<li>Fixed hiding "More" menu items on desktop</li>
+<li>Fixed hiding the "Open app" nag when viewing a Tweet on mobile</li>
+</ul></details>
+</li>
+<li>
   <strong>2021-11-20</strong> – <a href="https://github.com/insin/cookdandbombd-really-ignore-users">cookdandbombd-really-ignore-users</a> <a href="https://github.com/insin/cookdandbombd-really-ignore-users/releases/tag/v1.2">v1.2</a>
   <div><em>Really ignore ignored users</em></div>
   <details><summary>v1.2 release notes</summary><p>Updated for new theme</p>
@@ -12,13 +25,6 @@
   <strong>2021-11-19</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.5">v1.5</a>
   <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
   <details><summary>v1.5 release notes</summary><p>Fixed alternate striping of topics when ignored topics are hidden</p></details>
-</li>
-<li>
-  <strong>2021-09-10</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.11.3">v2.11.3</a>
-  <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.11.3 release notes</summary><p>Fixed detection of tweets with social context (retweets etc.)<br>
-Fixed detection of tweets which are replies</p>
-<p>This fixes handling of Retweets after recent Twitter markup changes</p></details>
 </li>
 <li>
   <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
