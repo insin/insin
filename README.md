@@ -3,16 +3,19 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-11-21</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.13">v2.13</a>
+  <strong>2021-11-26</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.14.1">v2.14.1</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.13 release notes</summary><h2>Added</h2>
+  <details><summary>v2.14.1 release notes</summary><h2>Fixed</h2>
 <ul>
-<li>"Twitter Blue" and "Twitter for Professionals" can now be hidden in the "More" menu</li>
-</ul>
-<h2>Fixed</h2>
-<ul>
-<li>Fixed hiding "More" menu items on desktop</li>
-<li>Fixed hiding the "Open app" nag when viewing a Tweet on mobile</li>
+<li>Fixed dismissing the menu after the custom "Mute this conversation" menu item is used to mute QTs of a particular tweet</li>
+</ul></details>
+</li>
+<li>
+  <strong>2021-11-24</strong> – <a href="https://github.com/insin/rllmuk-ignore-topics">rllmuk-ignore-topics</a> <a href="https://github.com/insin/rllmuk-ignore-topics/releases/tag/v1.2">v1.2</a>
+  <div><em>Hide topics and forums you're not interested in on the Rllmuk forum</em></div>
+  <details><summary>v1.2 release notes</summary><ul>
+<li>Added support for the Fluid view</li>
+<li>Added a collapse control for the Fluid sidebar</li>
 </ul></details>
 </li>
 <li>
@@ -33,16 +36,6 @@
 <ul>
 <li>Fixed addition of "Ignore In This Topic" button to user hovercards</li>
 <li>Fixed hiding the unread comment separator if all new posts are hidden</li>
-</ul></details>
-</li>
-<li>
-  <strong>2021-04-01</strong> – <a href="https://github.com/insin/babel-preset-proposals">babel-preset-proposals</a> <a href="https://github.com/insin/babel-preset-proposals/releases/tag/v0.4.0">v0.4.0</a>
-  <div><em>A Babel 7 preset to manage experimental proposal plugin dependencies and usage</em></div>
-  <details><summary>v0.4.0 release notes</summary><ul>
-<li>Updated plugins to latest versions as of Babel 7.13</li>
-<li>Added <code>@babel/plugin-proposal-class-static-block</code> and a new <code>classStaticBlock</code> option</li>
-<li>Updated links to plugin docs in README</li>
-<li>Require at least Node 10</li>
 </ul></details>
 </li>
 </ul>
