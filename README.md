@@ -3,9 +3,9 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2021-12-06</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.14.2">v2.14.2</a>
+  <strong>2022-02-08</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.14.4">v2.14.4</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.14.2 release notes</summary><p>Added support for hiding random tweets from any of your lists on the algorithmic ("Home") timeline</p></details>
+  <details><summary>v2.14.4 release notes</summary><p>Changed the implementation of hiding "More Tweets", as a Twitter change broke the previous implementation</p></details>
 </li>
 <li>
   <strong>2021-11-24</strong> – <a href="https://github.com/insin/rllmuk-ignore-topics">rllmuk-ignore-topics</a> <a href="https://github.com/insin/rllmuk-ignore-topics/releases/tag/v1.2">v1.2</a>
