@@ -4,7 +4,7 @@
 <ul>
 <li>
   <strong>2022-02-11</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.4">v1.4</a>
-  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, block users, and other UX tweaks</em></div>
+  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, mute users, and other UX tweaks</em></div>
   <details><summary>v1.4 release notes</summary><ul>
 <li>Users can now be muted directly from their comments - hover to reveal the mute control</li>
 <li>Updated options page styling to blend in better with browser styles</li>
