@@ -3,6 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2022-02-11</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.4">v1.4</a>
+  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, block users, and other UX tweaks</em></div>
+  <details><summary>v1.4 release notes</summary><ul>
+<li>Users can now be muted directly from their comments - hover to reveal the mute control</li>
+<li>Updated options page styling to blend in better with browser styles</li>
+</ul></details>
+</li>
+<li>
   <strong>2022-02-08</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.14.4">v2.14.4</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
   <details><summary>v2.14.4 release notes</summary><p>Changed the implementation of hiding "More Tweets", as a Twitter change broke the previous implementation</p></details>
@@ -25,15 +33,6 @@
   <strong>2021-11-19</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.5">v1.5</a>
   <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
   <details><summary>v1.5 release notes</summary><p>Fixed alternate striping of topics when ignored topics are hidden</p></details>
-</li>
-<li>
-  <strong>2021-07-06</strong> – <a href="https://github.com/insin/rllmuk-really-ignore-users">rllmuk-really-ignore-users</a> <a href="https://github.com/insin/rllmuk-really-ignore-users/releases/tag/v1.4">v1.4</a>
-  <div><em>Really ignore ignored users, and ignore users in specific topics</em></div>
-  <details><summary>v1.4 release notes</summary><p>Updated for Invision 4.6</p>
-<ul>
-<li>Fixed addition of "Ignore In This Topic" button to user hovercards</li>
-<li>Fixed hiding the unread comment separator if all new posts are hidden</li>
-</ul></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
