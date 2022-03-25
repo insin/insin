@@ -3,11 +3,10 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-02-14</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.14.5">v2.14.5</a>
+  <strong>2022-03-25</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.0">v2.15.0</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.14.5 release notes</summary><ul>
-<li>Fixed hiding metrics and the share button in the tweeted media modal</li>
-<li>Fixed uninverted Follow/Following buttons being unreadable when using one of the dark themes</li>
+  <details><summary>v2.15.0 release notes</summary><ul>
+<li>Added hiding the new Communities nav item (left nav on desktop, bottom nav on mobile)</li>
 </ul></details>
 </li>
 <li>
