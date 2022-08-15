@@ -3,12 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-08-11</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.1">v2.15.1</a>
+  <strong>2022-08-15</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.2">v2.15.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.15.1 release notes</summary><ul>
-<li>Fixed the shared tweets timeline toggle not being displayed due to Twitter layout changes</li>
-<li>Fixed Explore page contents not being hidden on mobile</li>
-<li>Fixed automatically switching from Home to Latest Tweets on mobile</li>
+  <details><summary>v2.15.2 release notes</summary><ul>
+<li>Fixed adding the Add Muted Word menu item on desktop</li>
+<li>Enabled hiding Explore page contents on desktop (enabled by default as it's algorithmic)</li>
 </ul></details>
 </li>
 <li>
