@@ -3,14 +3,10 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-08-19</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.3">v2.15.3</a>
+  <strong>2022-08-27</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.4">v2.15.4</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.15.3 release notes</summary><p>More mobile fixes after recent Twitter changes</p>
-<ul>
-<li>Fixed hiding the mobile "App is best!" nag on the login screen</li>
-<li>Fixed hiding the "Open app" nag on mobile when viewing a tweet</li>
-<li>Fixed hiding a user's total tweet count on mobile when hiding metrics</li>
-<li>Fixed skipping the Explore page on mobile when using the back button on the Search page while hiding Explore page contents</li>
+  <details><summary>v2.15.4 release notes</summary><ul>
+<li>Twitter reverted a recent header layout change - support both versions until we know which one is going to stick</li>
 </ul></details>
 </li>
 <li>
