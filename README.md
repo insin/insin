@@ -3,18 +3,15 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.5">v1.5</a>
+  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, mute users, and other UX tweaks</em></div>
+  <details><summary>v1.5 release notes</summary><p>Fixed after a HN markup change which broke showing the number of new comments</p></details>
+</li>
+<li>
   <strong>2022-08-27</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.4">v2.15.4</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
   <details><summary>v2.15.4 release notes</summary><ul>
 <li>Twitter reverted a recent header layout change - support both versions until we know which one is going to stick</li>
-</ul></details>
-</li>
-<li>
-  <strong>2022-02-11</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.4">v1.4</a>
-  <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, mute users, and other UX tweaks</em></div>
-  <details><summary>v1.4 release notes</summary><ul>
-<li>Users can now be muted directly from their comments - hover to reveal the mute control</li>
-<li>Updated options page styling to blend in better with browser styles</li>
 </ul></details>
 </li>
 <li>
