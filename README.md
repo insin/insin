@@ -3,9 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.5">v1.5</a>
+  <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
   <div><em>A Chrome and Firefox extension (and user script) to highlight new Hacker News comments, mute users, and other UX tweaks</em></div>
-  <details><summary>v1.5 release notes</summary><p>Fixed after a HN markup change which broke showing the number of new comments</p></details>
+  <details><summary>v1.6 release notes</summary><ul>
+<li>Fixed displaying the number of new comments on item list pages</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-08-27</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.15.4">v2.15.4</a>
