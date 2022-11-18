@@ -49,11 +49,11 @@ async function main() {
 
   const response = await graphQLClient.request(`{
     viewer {
-      repositories(ownerAffiliations:[OWNER], isFork: false, isLocked:false, privacy: PUBLIC, orderBy: {field: UPDATED_AT, direction: DESC}, first: 100) {
+      repositories(ownerAffiliations:[OWNER], isFork: false, isLocked:false, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, first: 100) {
         nodes {
           descriptionHTML
           name
-          releases(last: 1) {
+          releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
             nodes {
               descriptionHTML
               publishedAt
