@@ -3,16 +3,29 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-11-16</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.17.0">v2.17.0</a>
+  <strong>2022-11-18</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.0">v2.18.0</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.17.0 release notes</summary><ul>
-<li>Twitter Blue checkmarks are now handled on the Notifications page</li>
-<li>When hiding Explore page contents, the search input is now automatically focused</li>
-<li>Algorithmic tweets are no longer hidden by default in the Home timeline - you now have to opt-in to hiding each category</li>
-<li>Added a note to the options page warning about potential performance issues with the Home timeline if "Always use the Latest Tweets" is turned off</li>
+  <details><summary>v2.18.0 release notes</summary><ul>
+<li>Also made options available as a toolbar icon for easier access (and Real-Time Config Change)</li>
+<li>Handle the hashtag-specific variant of the search page</li>
+<li>Updated logo to have a solid white background</li>
 </ul>
 <h2>Screenshots</h2>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202135627-02e90cca-45a0-44c7-a7f4-ec0f77d5eaf1.png"><img src="https://user-images.githubusercontent.com/226692/202135627-02e90cca-45a0-44c7-a7f4-ec0f77d5eaf1.png" alt="firefox_GqB8rpJMLN" style="max-width: 100%;"></a></p></details>
+<details>
+<summary><b>Toolbar options in Firefox</b></summary>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718025-44cf0c91-0d25-48ed-9776-be1118be6f4f.png"><img src="https://user-images.githubusercontent.com/226692/202718025-44cf0c91-0d25-48ed-9776-be1118be6f4f.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718178-6a7a0386-81cc-4927-b667-1ac8d84a00e4.png"><img src="https://user-images.githubusercontent.com/226692/202718178-6a7a0386-81cc-4927-b667-1ac8d84a00e4.png" style="max-width: 100%;"></a>
+</details>
+<details>
+<summary><b>Toolbar options in Chrome</b></summary>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718304-f08ca7cc-50d4-4c97-873c-f41929b00378.png"><img src="https://user-images.githubusercontent.com/226692/202718304-f08ca7cc-50d4-4c97-873c-f41929b00378.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718316-82b168d5-a6ad-4147-bb1b-387468de1c79.png"><img src="https://user-images.githubusercontent.com/226692/202718316-82b168d5-a6ad-4147-bb1b-387468de1c79.png" style="max-width: 100%;"></a>
+</details>
+<details>
+<summary><b>Toolbar options in Edge</b></summary>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718335-0d399b63-2a07-4e3f-8eb1-fe42f55c1fc1.png"><img src="https://user-images.githubusercontent.com/226692/202718335-0d399b63-2a07-4e3f-8eb1-fe42f55c1fc1.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718349-ad7aa46e-d521-4cc7-9dde-c65372d87ee2.png"><img src="https://user-images.githubusercontent.com/226692/202718349-ad7aa46e-d521-4cc7-9dde-c65372d87ee2.png" style="max-width: 100%;"></a>
+</details></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
