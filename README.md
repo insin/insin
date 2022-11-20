@@ -3,29 +3,12 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-11-18</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.0">v2.18.0</a>
+  <strong>2022-11-20</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.1">v2.18.1</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.18.0 release notes</summary><ul>
-<li>Also made options available as a toolbar icon for easier access (and Real-Time Config Change)</li>
-<li>Handle the hashtag-specific variant of the search page</li>
-<li>Updated logo to have a solid white background</li>
-</ul>
-<h2>Screenshots</h2>
-<details>
-<summary><b>Toolbar options in Firefox</b></summary>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718025-44cf0c91-0d25-48ed-9776-be1118be6f4f.png"><img src="https://user-images.githubusercontent.com/226692/202718025-44cf0c91-0d25-48ed-9776-be1118be6f4f.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718178-6a7a0386-81cc-4927-b667-1ac8d84a00e4.png"><img src="https://user-images.githubusercontent.com/226692/202718178-6a7a0386-81cc-4927-b667-1ac8d84a00e4.png" style="max-width: 100%;"></a>
-</details>
-<details>
-<summary><b>Toolbar options in Chrome</b></summary>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718304-f08ca7cc-50d4-4c97-873c-f41929b00378.png"><img src="https://user-images.githubusercontent.com/226692/202718304-f08ca7cc-50d4-4c97-873c-f41929b00378.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718316-82b168d5-a6ad-4147-bb1b-387468de1c79.png"><img src="https://user-images.githubusercontent.com/226692/202718316-82b168d5-a6ad-4147-bb1b-387468de1c79.png" style="max-width: 100%;"></a>
-</details>
-<details>
-<summary><b>Toolbar options in Edge</b></summary>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718335-0d399b63-2a07-4e3f-8eb1-fe42f55c1fc1.png"><img src="https://user-images.githubusercontent.com/226692/202718335-0d399b63-2a07-4e3f-8eb1-fe42f55c1fc1.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/202718349-ad7aa46e-d521-4cc7-9dde-c65372d87ee2.png"><img src="https://user-images.githubusercontent.com/226692/202718349-ad7aa46e-d521-4cc7-9dde-c65372d87ee2.png" style="max-width: 100%;"></a>
-</details></details>
+  <details><summary>v2.18.1 release notes</summary><ul>
+<li>Fixed retweeted quote tweets not being hidden/separated based on Quote Tweets config</li>
+<li>Dropped "Options" from the toolbar button title</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
