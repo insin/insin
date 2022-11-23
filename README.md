@@ -3,12 +3,15 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-11-20</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.1">v2.18.1</a>
+  <strong>2022-11-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.2">v2.18.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.18.1 release notes</summary><ul>
-<li>Fixed retweeted quote tweets not being hidden/separated based on Quote Tweets config</li>
-<li>Dropped "Options" from the toolbar button title</li>
-</ul></details>
+  <details><summary>v2.18.2 release notes</summary><ul>
+<li>Added an option to use normal font weight in dropdown menus (enabled by default)</li>
+<li>Fixed the width of the "What's happening?" input when using full-width timeline</li>
+<li>Fixed the "Full-width media &amp; cards" setting when using full-width timeline</li>
+</ul>
+<h2>Screenshots</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/203602280-3f471357-c776-42d6-b27a-afa85d736148.gif"><img src="https://user-images.githubusercontent.com/226692/203602280-3f471357-c776-42d6-b27a-afa85d736148.gif" alt="firefox_q304ffU1DD" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
