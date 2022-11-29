@@ -3,15 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-11-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.2">v2.18.2</a>
+  <strong>2022-11-29</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.3">v2.18.3</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.18.2 release notes</summary><ul>
-<li>Added an option to use normal font weight in dropdown menus (enabled by default)</li>
-<li>Fixed the width of the "What's happening?" input when using full-width timeline</li>
-<li>Fixed the "Full-width media &amp; cards" setting when using full-width timeline</li>
-</ul>
-<h2>Screenshots</h2>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/203602280-3f471357-c776-42d6-b27a-afa85d736148.gif"><img src="https://user-images.githubusercontent.com/226692/203602280-3f471357-c776-42d6-b27a-afa85d736148.gif" alt="firefox_q304ffU1DD" style="max-width: 100%;"></a></p></details>
+  <details><summary>v2.18.3 release notes</summary><ul>
+<li>Fixed quote tweet detection, main nav and menu item font tweaks, and hiding the total tweet count after a Twitter markup change</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
