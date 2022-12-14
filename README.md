@@ -3,11 +3,19 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-11-29</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.18.3">v2.18.3</a>
+  <strong>2022-12-14</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.19.0">v2.19.0</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.18.3 release notes</summary><ul>
-<li>Fixed quote tweet detection, main nav and menu item font tweaks, and hiding the total tweet count after a Twitter markup change</li>
-</ul></details>
+  <details><summary>v2.19.0 release notes</summary><ul>
+<li>Hide the new Twitter Blue main navigation item</li>
+<li>Hide "Discover more" algorithmic tweets when viewing an individual tweet</li>
+<li>Fixed using normal font weight in menus on mobile</li>
+<li>Moved "Hide metrics" out of the Experiments section, it's now a main feature</li>
+</ul>
+<h2>Screenshots</h2>
+<h3>Hiding Twitter Blue nav (enabled by default)</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/207519287-984de490-ba3e-4873-adfb-b34b6611a293.gif"><img src="https://user-images.githubusercontent.com/226692/207519287-984de490-ba3e-4873-adfb-b34b6611a293.gif" alt="firefox_TuJ0EFQgOU" style="max-width: 100%;"></a></p>
+<h3>Hiding "Discover more" tweets (enabled by default)</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/207519297-193d31f1-f011-4eef-9e62-ec5ba0e657e8.gif"><img src="https://user-images.githubusercontent.com/226692/207519297-193d31f1-f011-4eef-9e62-ec5ba0e657e8.gif" alt="firefox_JML5ngXnY5" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
