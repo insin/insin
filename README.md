@@ -3,15 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2022-12-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.20.0">v2.20.0</a>
+  <strong>2022-12-28</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.20.1">v2.20.1</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.20.0 release notes</summary><ul>
-<li>Added a new "Hide views / analytics links under tweets" option (enabled by default)</li>
-<li>Fixed hiding Reply/Retweet/Like metrics</li>
-<li>Fixed hiding the Share button under tweets</li>
-</ul>
-<h2>Screenshots</h2>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/209308639-e581303d-9827-43b8-bf86-6bfdf08bb0ba.gif"><img src="https://user-images.githubusercontent.com/226692/209308639-e581303d-9827-43b8-bf86-6bfdf08bb0ba.gif" alt="firefox_1wFk8jOyl5" style="max-width: 100%;"></a></p></details>
+  <details><summary>v2.20.1 release notes</summary><ul>
+<li>Fixed hiding views and share buttons on mobile</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
