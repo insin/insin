@@ -3,9 +3,12 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-11</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.20.2">v2.20.2</a>
+  <strong>2023-01-12</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.20.3">v2.20.3</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.20.2 release notes</summary><p>"Latest Tweets" was renamed to "Following"</p></details>
+  <details><summary>v2.20.3 release notes</summary><ul>
+<li>Fixed hiding view counts in their new location under individual tweets</li>
+<li>Fixed hiding the share tweet button</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
