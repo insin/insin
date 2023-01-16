@@ -3,23 +3,13 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-14</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.0">v2.21.0</a>
+  <strong>2023-01-16</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.1">v2.21.1</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.21.0 release notes</summary><ul>
-<li>Added support for the new tabbed timeline
-<ul>
-<li>Automatically keeps you on "Following"</li>
-<li>Hides the "For you" tab</li>
-<li>Hides the now-functionless "Home" heading on desktop</li>
-<li>Adds a new "Retweets" tab</li>
-</ul>
-</li>
-</ul>
-<h2>Screenshots</h2>
-<h3>Desktop</h3>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/212483039-0add64cf-2fbe-4809-bd71-5f4b50e795eb.png"><img src="https://user-images.githubusercontent.com/226692/212483039-0add64cf-2fbe-4809-bd71-5f4b50e795eb.png" alt="firefox_dmuLftV97x" style="max-width: 100%;"></a></p>
-<h3>Mobile</h3>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/212483045-a62b33ce-6d50-4d50-8b20-05491b448d57.png"><img src="https://user-images.githubusercontent.com/226692/212483045-a62b33ce-6d50-4d50-8b20-05491b448d57.png" alt="firefox_T5ltDS20p3" style="max-width: 100%;"></a></p></details>
+  <details><summary>v2.21.1 release notes</summary><ul>
+<li>Fixed the Retweets tab being removed if there are lists pinned to the Home timeline</li>
+<li>Fixed replacing Twitter Blue checks in <code>${user} followed/liked/retweeted</code> Notifications</li>
+<li>Fixed accidentally hiding the delete image button in the Tweet modal when hiding share tweet buttons</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
