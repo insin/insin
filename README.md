@@ -3,13 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-16</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.1">v2.21.1</a>
+  <strong>2023-01-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.2">v2.21.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.21.1 release notes</summary><ul>
-<li>Fixed the Retweets tab being removed if there are lists pinned to the Home timeline</li>
-<li>Fixed replacing Twitter Blue checks in <code>${user} followed/liked/retweeted</code> Notifications</li>
-<li>Fixed accidentally hiding the delete image button in the Tweet modal when hiding share tweet buttons</li>
-</ul></details>
+  <details><summary>v2.21.2 release notes</summary><ul>
+<li>Fix for Twitter moving  where the the Views counter is under tweets</li>
+<li>Tightened up the Sparkle button selector so it only looks in the top heading element</li>
+</ul>
+<p>This version is in the following extension stores:</p>
+<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
