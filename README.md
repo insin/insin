@@ -3,13 +3,17 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-17</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.2">v2.21.2</a>
+  <strong>2023-01-18</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.4">v2.21.4</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.21.2 release notes</summary><ul>
-<li>Fix for Twitter moving  where the the Views counter is under tweets</li>
-<li>Tightened up the Sparkle button selector so it only looks in the top heading element</li>
+  <details><summary>v2.21.4 release notes</summary><p>Misc mobile version fixes:</p>
+<ul>
+<li>Fixed the Retweets tab persisting when it should be removed</li>
+<li>Fixed the Retweets tab retaining focus styling after it's been pressed</li>
+<li>Fixed hiding tabs when hiding Explore page content</li>
+<li>Removed logged-out/login pages from the hide "Open App" nags feature</li>
 </ul>
-<p>This version is in the following extension stores:</p>
+<hr>
+<p>This version is in the following browser extension stores:</p>
 <p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
