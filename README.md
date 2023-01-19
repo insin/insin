@@ -3,14 +3,12 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-18</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.4">v2.21.4</a>
+  <strong>2023-01-19</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.6">v2.21.6</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.21.4 release notes</summary><p>Misc mobile version fixes:</p>
+  <details><summary>v2.21.6 release notes</summary><p>Menu fixes after a Twitter markup change</p>
 <ul>
-<li>Fixed the Retweets tab persisting when it should be removed</li>
-<li>Fixed the Retweets tab retaining focus styling after it's been pressed</li>
-<li>Fixed hiding tabs when hiding Explore page content</li>
-<li>Removed logged-out/login pages from the hide "Open App" nags feature</li>
+<li>Fixed hover style on custom menu items</li>
+<li>Fixed closing the menu after "Mute this conversation" is used to mute a specific QT</li>
 </ul>
 <hr>
 <p>This version is in the following browser extension stores:</p>
