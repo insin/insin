@@ -3,16 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-19</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.21.6">v2.21.6</a>
+  <strong>2023-01-21</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.22.1">v2.22.1</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.21.6 release notes</summary><p>Menu fixes after a Twitter markup change</p>
-<ul>
-<li>Fixed hover style on custom menu items</li>
-<li>Fixed closing the menu after "Mute this conversation" is used to mute a specific QT</li>
+  <details><summary>v2.22.1 release notes</summary><ul>
+<li>Fixed Tweak New Twitter not working if you open Twitter in a background tab then switch to it some time later [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1551764794" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/198" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/198/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/198">#198</a>]</li>
 </ul>
 <hr>
 <p>This version is in the following browser extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/tweak-new-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p></details>
+<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
