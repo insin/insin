@@ -3,13 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.23.0">v2.23.0</a>
+  <strong>2023-01-23</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.23.2">v2.23.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.23.0 release notes</summary><ul>
+  <details><summary>v2.23.2 release notes</summary><ul>
 <li>Made the options page translatable</li>
 <li>Added Japanese translation by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/MitoKurato/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/MitoKurato">@MitoKurato</a></li>
 <li>Fixed algorithmic tweets not being identified if "Following" is being used by default but "For you" isn't being hidden</li>
 </ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/214121980-9be1bf99-3606-4e9f-a849-4ef00f335a4a.png"><img src="https://user-images.githubusercontent.com/226692/214121980-9be1bf99-3606-4e9f-a849-4ef00f335a4a.png" alt="chrome_small_promo_tile-ja" style="max-width: 100%;"></a></p>
 <hr>
 <p>This version is awaiting approval at browser extension stores</p>
 <hr>
