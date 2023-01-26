@@ -3,17 +3,24 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-25</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.24.0">v2.24.0</a>
+  <strong>2023-01-26</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.25.0">v2.25.0</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.24.0 release notes</summary><ul>
-<li>Added Spanish translation by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/rogama25/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rogama25">@rogama25</a> [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1553633962" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/203" data-hovercard-type="pull_request" data-hovercard-url="/insin/tweak-new-twitter/pull/203/hovercard" href="https://github.com/insin/tweak-new-twitter/pull/203">#203</a>]</li>
-<li>Added support for observing the tweet timeline in desktop media modals, so other features will work there, e.g. replacing Twitter Blue checks [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1554756804" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/206" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/206/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/206">#206</a>]</li>
-<li>Fixed hiding Views on the main tweet in desktop media modals [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1554756804" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/206" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/206/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/206">#206</a>]</li>
-<li>Fixed hiding the Like button instead of Views when the Buffer extension is also being used [<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1555385837" data-permission-text="Title is private" data-url="https://github.com/insin/tweak-new-twitter/issues/209" data-hovercard-type="issue" data-hovercard-url="/insin/tweak-new-twitter/issues/209/hovercard" href="https://github.com/insin/tweak-new-twitter/issues/209">#209</a>]</li>
+  <details><summary>v2.25.0 release notes</summary><ul>
+<li>Added support for Lists
+<ul>
+<li>Display of Retweets in Lists can be toggled using a new "Turn off/on Retweets" item added to the List's menu</li>
+<li>Other timeline features like hiding QTs of blocked/muted accounts and hiding QTs of specific tweets now also work on Lists</li>
+</ul>
+</li>
+<li>Changed the options page to reflect Twitter removing Newsletters and Moments from the "More"/slide-out menu</li>
 </ul>
 <hr>
 <p>This version is in the following browser extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p></details>
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/tweak-new-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p>
+<h2>Screenshots</h2>
+<h3>New List menu item to toggle display of Retweets</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/214834451-1e982634-fa61-4672-8d79-6ef459e74d47.gif"><img src="https://user-images.githubusercontent.com/226692/214834451-1e982634-fa61-4672-8d79-6ef459e74d47.gif" alt="firefox_wnr00WrICJ" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/214834607-e1694d03-13ac-415a-8b74-5ce6ca9fee91.gif"><img src="https://user-images.githubusercontent.com/226692/214834607-e1694d03-13ac-415a-8b74-5ce6ca9fee91.gif" alt="firefox_ix8kPpCkwN" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
