@@ -9,14 +9,14 @@
 <li>Added support for Lists
 <ul>
 <li>Display of Retweets in Lists can be toggled using a new "Turn off/on Retweets" item added to the List's menu</li>
-<li>Other timeline features like hiding QTs of blocked/muted accounts and hiding QTs of specific tweets now also work on Lists</li>
+<li>Other timeline features like hiding QTs of blocked/muted accounts and hiding QTs of specific tweets now also work in Lists</li>
 </ul>
 </li>
 <li>Changed the options page to reflect Twitter removing Newsletters and Moments from the "More"/slide-out menu</li>
 </ul>
 <hr>
 <p>This version is in the following browser extension stores:</p>
-<p><a href="https://addons.mozilla.org/en-US/firefox/addon/tweak-new-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p>
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/tweak-new-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p>
 <h2>Screenshots</h2>
 <h3>New List menu item to toggle display of Retweets</h3>
 <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/214834451-1e982634-fa61-4672-8d79-6ef459e74d47.gif"><img src="https://user-images.githubusercontent.com/226692/214834451-1e982634-fa61-4672-8d79-6ef459e74d47.gif" alt="firefox_wnr00WrICJ" style="max-width: 100%;"></a></p>
