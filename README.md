@@ -3,16 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-01-26</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.25.1">v2.25.1</a>
+  <strong>2023-01-28</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.25.2">v2.25.2</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v2.25.1 release notes</summary><ul>
-<li>Lists, Bookmarks and Twitter Circle navigation items are no longer hidden by default</li>
-<li>Fixed retweet and like metrics not being hidden on tweets you've retweeted or liked</li>
-<li>Fixed the increasing count animation still being visible on hidden reply, retweet and like metrics</li>
+  <details><summary>v2.25.2 release notes</summary><ul>
+<li>Fixed Tweets in the main timeline not rendering on lower-performance devices when using the desktop version</li>
 </ul>
 <hr>
 <p>This version is in the following browser extension stores:</p>
-<p><a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p></details>
+<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
