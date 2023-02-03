@@ -8,7 +8,7 @@
   <details><summary>v2.99.0 release notes</summary><p>(Preview of what's going to be v3.0.0 in the first App Store version)</p>
 <hr>
 <p>This version is in the following browser extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tweak-new-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/tweak-new-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p>
 <hr>
 <h3>New</h3>
 <ul>
@@ -24,7 +24,7 @@
 </ul>
 </li>
 <li>Community pages can now go full-width</li>
-<li>Automatically switch from Verified to All in Notification if Twitter forced you back onto it</li>
+<li>Automatically switch from Verified to All in Notifications if Twitter forced you back onto Verified - this has started happening in the mobile web version</li>
 </ul>
 <h3>Changed</h3>
 <ul>
