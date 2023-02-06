@@ -3,10 +3,29 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-02-04</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v3.0.0">v3.0.0</a>
+  <strong>2023-02-06</strong> – <a href="https://github.com/insin/tweak-new-twitter">tweak-new-twitter</a> <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v3.1.0">v3.1.0</a>
   <div><em>Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements</em></div>
-  <details><summary>v3.0.0 release notes</summary><p>First version available in the App Store for Safari - features are the same as <a href="https://github.com/insin/tweak-new-twitter/releases/tag/v2.99.0">v2.99.0</a></p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="app-store" style="max-width: 100%;"></a></p></details>
+  <details><summary>v3.1.0 release notes</summary><h2>All Versions</h2>
+<ul>
+<li>Added French translation by <a href="https://github.com/THEDARKK">@THEDARKK</a></li>
+<li>Changed the order of some options to move less-used options further down</li>
+</ul>
+<h2><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow">Control Panel for Twitter</a> changes</h2>
+<ul>
+<li>Updated the Mac app icon to have the default drop shadow</li>
+<li>Fixed the first option in a labelled option section having an overline on iPhone</li>
+<li>Fixed option checkboxes shrinking when their label is long enough to wrap on iPad &amp; Mac</li>
+</ul>
+<hr>
+<p>This version is in the following browser extension stores:</p>
+<p><a href="https://chrome.google.com/webstore/detail/tweak-new-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<hr>
+<h2>Screenshots</h2>
+<h3>French translation on iPhone</h3>
+<details>
+<summary>View (it's quite large)</summary>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/216872299-a124c96d-6367-4b83-b829-85a046352b17.png"><img src="https://user-images.githubusercontent.com/226692/216872299-a124c96d-6367-4b83-b829-85a046352b17.png" style="max-width: 100%;"></a>
+</details></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
