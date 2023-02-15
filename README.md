@@ -3,13 +3,18 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-02-07</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.2.0">v3.2.0</a>
+  <strong>2023-02-15</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.3.0">v3.3.0</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.2.0 release notes</summary><p>Renamed the extension to <strong>Control Panel for Twitter</strong>, so it's using the same name in all extension stores</p>
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/217165307-61763d53-b084-49ae-9eba-4f6f340dd237.png"><img src="https://user-images.githubusercontent.com/226692/217165307-61763d53-b084-49ae-9eba-4f6f340dd237.png" alt="chrome_small_promo_tile" style="max-width: 100%;"></a></p>
+  <details><summary>v3.3.0 release notes</summary><ul>
+<li>Added a new option to make "Latest" the default tab for search results</li>
+<li>Added an option for hiding the "Home" heading on the main timeline on desktop, so it can be turned off if Twitter ever improve it or remove it themselves</li>
+<li>Improved Japanese translation by <a href="https://github.com/b-wind">@b-wind</a></li>
+<li>Fixed the entire Search page being reprocessed when search terms are changed</li>
+<li>Fixed missing localization when there are muted Quote Tweets to show in options</li>
+</ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="app-store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/control-panel-for-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p></details>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="app-store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
