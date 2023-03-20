@@ -9,7 +9,8 @@
 <li>Fixed replacement of Twitter Blue verified checks after a Twitter markup change</li>
 </ul>
 <hr>
-<p>This version has been submitted to all extension stores for review</p></details>
+<p>Available in the following extension stores:</p>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
