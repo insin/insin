@@ -3,11 +3,21 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-04-05</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.3.4">v3.3.4</a>
+  <strong>2023-04-06</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.4.0">v3.4.0</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.3.4 release notes</summary><ul>
-<li>Replace the doge logo with the Twitter logo in Safari</li>
-</ul></details>
+  <details><summary>v3.4.0 release notes</summary><ul>
+<li>Added an option to hide the Bookmark button under a focused tweet</li>
+<li>Added an option to hide Bookmark metrics under a focused tweet</li>
+<li>Added Simplified Chinese translation by <a href="https://github.com/CodeQiu">@CodeQiu</a></li>
+</ul>
+<hr>
+<p>Available in the following extension stores:</p>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<h2>Screenshots</h2>
+<h3>New Bookmark options</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/230266268-55805d36-cc5a-4318-a00e-9591c4930f25.gif"><img src="https://user-images.githubusercontent.com/226692/230266268-55805d36-cc5a-4318-a00e-9591c4930f25.gif" alt="firefox_JzJHMyTN0O" style="max-width: 100%;"></a></p>
+<h3>Simplified Chinese translation</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/230266254-44adfbce-3781-40c2-9dec-b93ec69179cc.png"><img src="https://user-images.githubusercontent.com/226692/230266254-44adfbce-3781-40c2-9dec-b93ec69179cc.png" alt="bE0QxCx1ix" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
