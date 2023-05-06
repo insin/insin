@@ -3,22 +3,20 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-05-01</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.4.4">v3.4.4</a>
+  <strong>2023-05-06</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.5.0">v3.5.0</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.4.4 release notes</summary><ul>
-<li>Fixed "Hide Views" hiding the separator between username and time in focused quote tweets</li>
-<li>Fixed affiliates of verified organizations getting Blue checks</li>
-<li>Fixed adding "Turn on/off Retweets" to the menu on Lists after a Twitter markup change</li>
-<li>Fixed "Hide Verified tab" hiding the Twitter Circle "Recommended" tab when viewed on Notifications</li>
-<li>Fixed profile page detection for people with an @ in their display name</li>
-<li>Fixed replacing Blue checks in the Verified account popup in user profiles after a Twitter markup change</li>
-<li>Fixed reply detection after a Twitter markup change</li>
-<li>Fixed an error if a timeline item is completely empty</li>
-<li>Removed the Verified accounts experiment which only applied to "legacy" Verified users</li>
+  <details><summary>v3.5.0 release notes</summary><ul>
+<li>Added an option to hide the floating "See new Tweets" button in the main timeline</li>
+<li>Added an option to hide the new "Connect" item in the desktop "More" menu</li>
+<li>Updated options for hiding navigation and menu items to reflect recent Twitter changes</li>
+<li>Fixed profile page detection the URL username has a different case from the user's canonical username</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p></details>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<h2>Screenshots</h2>
+<h3>Hiding "See new Tweets"</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/226692/236619165-626c4379-1dd7-428c-8103-65809091e0b5.gif"><img src="https://user-images.githubusercontent.com/226692/236619165-626c4379-1dd7-428c-8103-65809091e0b5.gif" alt="firefox_maM7k8OxAK" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
