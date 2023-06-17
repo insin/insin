@@ -3,22 +3,28 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-06-08</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.6.0">v3.6.0</a>
+  <strong>2023-06-16</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.7.0">v3.7.0</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.6.0 release notes</summary><ul>
-<li>Subscribe buttons and other subscription-related UI can now be hidden</li>
-<li>The "Verified" nav item (which Twitter replaced the "Twitter Blue" item with on desktop) can now be hidden</li>
-<li>Hiding "Discover more" tweets now also works when using the media viewer on desktop</li>
-<li>Fixed media viewer detection when a video is initially viewed with it</li>
-<li>Fixed adding the "Add muted word" menu item after recent Twitter menu changes</li>
-<li>Removed settings related to the Twitter Circle and Verified Orgs menu items, which have been removed by Twitter</li>
+  <details><summary>v3.7.0 release notes</summary><ul>
+<li>Added a "Hide Twitter Blue replies" Experiment which hides Blue replies in individual tweet threads - there are currently a few issues with this which will keep it in Experiments until they're fixed</li>
+<li>Added a "Hide Twitter Blue upsells" option (enabled by default) which hides Twitter Blue promotional UI items in even more places throughout the app, replacing previous individual options</li>
+<li>The Monetization item in Settings is now hidden when "Hide Subscriptions" is enabled</li>
+<li>Hiding tweets from blocked or muted accounts now works in individual tweet threads</li>
+<li>Fixed "Discover more" algorithmic tweets not being hidden when Twitter is viewed in certain languages</li>
+<li>Fixed tab change detection on the Search page</li>
+<li>Fixed the "Add muted word" menu item not being added, after more Twitter menu changes</li>
+<li>Fixed hiding the "Subscriber" indicator on tweets when "Hide Subscriptions" is enabled and the Dim or Lights out background is being used</li>
+<li>Fixed Twitter Blue accounts with the "Automated" label not having their checks replaced with the Blue logo</li>
+<li>Fixed hiding the Communities nav item on desktop, which has moved back to the main navigation (again)</li>
+<li>Fixed Search filters being hidden when hiding What's happening etc. in the sidebar, after a Twitter layout change</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/control-panel-for-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<hr>
 <h2>Screenshots</h2>
-<h3>Hide Subscribe and related UI</h3>
-<p><a href="https://twitter.com/ControlPanelFT/status/1666875795145621504" rel="nofollow">https://twitter.com/ControlPanelFT/status/1666875795145621504</a></p></details>
+<h3>Hiding Twitter Blue replies to the focused tweet in tweet threads</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/17d20209-0c50-4f98-a7c3-6ad8fbe50015"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/17d20209-0c50-4f98-a7c3-6ad8fbe50015" alt="Untitled" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
