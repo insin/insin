@@ -3,28 +3,40 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-06-16</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.7.0">v3.7.0</a>
+  <strong>2023-06-20</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.8.1">v3.8.1</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.7.0 release notes</summary><ul>
-<li>Added a "Hide Twitter Blue replies" Experiment which hides Blue replies in individual tweet threads - there are currently a few issues with this which will keep it in Experiments until they're fixed</li>
-<li>Added a "Hide Twitter Blue upsells" option (enabled by default) which hides Twitter Blue promotional UI items in even more places throughout the app, replacing previous individual options</li>
-<li>The Monetization item in Settings is now hidden when "Hide Subscriptions" is enabled</li>
-<li>Hiding tweets from blocked or muted accounts now works in individual tweet threads</li>
-<li>Fixed "Discover more" algorithmic tweets not being hidden when Twitter is viewed in certain languages</li>
-<li>Fixed tab change detection on the Search page</li>
-<li>Fixed the "Add muted word" menu item not being added, after more Twitter menu changes</li>
-<li>Fixed hiding the "Subscriber" indicator on tweets when "Hide Subscriptions" is enabled and the Dim or Lights out background is being used</li>
-<li>Fixed Twitter Blue accounts with the "Automated" label not having their checks replaced with the Blue logo</li>
-<li>Fixed hiding the Communities nav item on desktop, which has moved back to the main navigation (again)</li>
-<li>Fixed Search filters being hidden when hiding What's happening etc. in the sidebar, after a Twitter layout change</li>
+  <details><summary>v3.8.1 release notes</summary><ul>
+<li><strong>Fixed timeline functionality which was broken by a recent Twitter markup change</strong></li>
+<li>The "Hide Twitter Blue replies" option is now ready for use, and has been moved out of the Experiments section</li>
+<li>Added options to hide Twitter Blue replies from people you follow, are followed by, or got their checks by having &gt; 1 million followers - these are not hidden by default</li>
+<li>Changed "Hide Twitter Blue upsells" to also hide the "Get verified" box on the home page if you've disabled hiding algorithmic sidebar content</li>
+<li>Fixed the focused tweet and everything above it being hidden if it's a reply to a Twitter Blue tweet</li>
+<li>Fixed the "Full-width media &amp; cards" setting when using "Full-width timeline content" on desktop</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
 <hr>
 <h2>Screenshots</h2>
-<h3>Hiding Twitter Blue replies to the focused tweet in tweet threads</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/17d20209-0c50-4f98-a7c3-6ad8fbe50015"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/17d20209-0c50-4f98-a7c3-6ad8fbe50015" alt="Untitled" style="max-width: 100%;"></a></p></details>
+<h3>New options (desktop Firefox example)</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/71fb5481-c0a0-41f4-a821-2db124ad0e97"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/71fb5481-c0a0-41f4-a821-2db124ad0e97" alt="gfKoLLirNt" style="max-width: 100%;"></a></p>
+<h2>Fix Rollout Status</h2>
+<h3>App Store</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> created App Store builds</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> submitted App Store builds for review</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> waiting for review</li>
+</ul>
+<h3>Firefox Add-ons:</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> submitted for review on 20th June</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> waiting for review -  reviews have taken 5-7 days recently</li>
+</ul>
+<h3>Edge Addons</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> submitted for review on 20th June</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> waiting for review -  reviews have taken 5-7 days recently</li>
+</ul></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
