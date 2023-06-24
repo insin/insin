@@ -3,23 +3,24 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-06-20</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.8.1">v3.8.1</a>
+  <strong>2023-06-24</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.9.0">v3.9.0</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.8.1 release notes</summary><ul>
-<li><strong>Fixed timeline functionality which was broken by a recent Twitter markup change</strong></li>
-<li>The "Hide Twitter Blue replies" option is now ready for use, and has been moved out of the Experiments section</li>
-<li>Added options to hide Twitter Blue replies from people you follow, are followed by, or got their checks by having &gt; 1 million followers - these are not hidden by default</li>
-<li>Changed "Hide Twitter Blue upsells" to also hide the "Get verified" box on the home page if you've disabled hiding algorithmic sidebar content</li>
-<li>Fixed the focused tweet and everything above it being hidden if it's a reply to a Twitter Blue tweet</li>
-<li>Fixed the "Full-width media &amp; cards" setting when using "Full-width timeline content" on desktop</li>
+  <details><summary>v3.9.0 release notes</summary><ul>
+<li>Added a "Retweets in Lists" setting which lets you hide retweets in pinned Lists on the Home screen</li>
+<li>Added an option to only hide Explore on desktop when the sidebar is visible (enabled by default)</li>
+<li>Changed default setting: don't hide Communities, as it's not a main navigation item on mobile any more</li>
+<li>Changed default setting: don't shrink the account switcher on desktop</li>
+<li>Fixed "Hide Subscriptions" not hiding Subscribe buttons in the desktop media viewer modal</li>
+<li>Fixed some French and Simplified Chinese translations</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/control-panel-for-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
 <hr>
 <h2>Screenshots</h2>
-<h3>New options (desktop Firefox example)</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/71fb5481-c0a0-41f4-a821-2db124ad0e97"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/71fb5481-c0a0-41f4-a821-2db124ad0e97" alt="gfKoLLirNt" style="max-width: 100%;"></a></p></details>
+<h3>New/changed settings</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/6d0b73b6-a733-442d-9cb5-65b392b94a7f"><img width="500" alt="Screen Shot 2023-06-24 at 7 54 17 pm" src="https://github.com/insin/control-panel-for-twitter/assets/226692/6d0b73b6-a733-442d-9cb5-65b392b94a7f" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/971f8715-7a10-410f-8793-ec826e044831"><img width="500" alt="Screen Shot 2023-06-24 at 7 54 37 pm" src="https://github.com/insin/control-panel-for-twitter/assets/226692/971f8715-7a10-410f-8793-ec826e044831" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
