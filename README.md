@@ -3,55 +3,15 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-07-09</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.0">v3.11.0</a>
+  <strong>2023-07-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.1">v3.11.1</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.11.0 release notes</summary><ul>
-<li>Added an option to hide Retweets in user profiles</li>
-<li>Added an option to change navigation bar density on desktop (Default, Comfortable or Compact)</li>
-<li>Added an option to disable bold and italic text formatting in tweets</li>
-<li>Moved formatting-related options to the "UI tweaks" section</li>
-<li>Fixed getting the username when muting specific Quote Tweets</li>
-<li>Removed Twitter Circle functionality</li>
+  <details><summary>v3.11.1 release notes</summary><ul>
+<li>Fixed detection of user profile pages which have certain special characters in their display name</li>
+<li>Fixed hiding the "Show when sidebar is hidden" option when the "Hide Explore" option is disabled in desktop mode</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
-<hr>
-<h2>Screenshots</h2>
-<h3>Disable bold and italic text formatting</h3>
-<table>
-<thead>
-<tr>
-<th>Before</th>
-<th>After</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/6912a632-aacb-4867-857e-9faf9059148b"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/6912a632-aacb-4867-857e-9faf9059148b" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/b4097558-1679-47b5-bc97-9b931dc084d5"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/b4097558-1679-47b5-bc97-9b931dc084d5" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<h3>Navigation density</h3>
-<table>
-<thead>
-<tr>
-<th>Default</th>
-<th>Comfortable</th>
-<th>Compact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/b8ce6f43-6c84-4f36-a5ff-bc76350d9273"><img width="77" src="https://github.com/insin/control-panel-for-twitter/assets/226692/b8ce6f43-6c84-4f36-a5ff-bc76350d9273" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/eed6d97e-2c04-4d6c-963e-b0b6d90bade7"><img width="77" src="https://github.com/insin/control-panel-for-twitter/assets/226692/eed6d97e-2c04-4d6c-963e-b0b6d90bade7" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/3e46e357-af69-4e0d-a55d-17c7dd7071c8"><img width="77" src="https://github.com/insin/control-panel-for-twitter/assets/226692/3e46e357-af69-4e0d-a55d-17c7dd7071c8" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<h3>Hiding Retweets in user profiles</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/9b2468d0-d50d-4f0e-9bae-ebe76d454eee"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/9b2468d0-d50d-4f0e-9bae-ebe76d454eee" alt="" style="max-width: 100%;"></a></p></details>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2022-10-05</strong> – <a href="https://github.com/insin/hn-comments-owl">hn-comments-owl</a> <a href="https://github.com/insin/hn-comments-owl/releases/tag/v1.6">v1.6</a>
