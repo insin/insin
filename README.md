@@ -3,11 +3,11 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-07-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.1">v3.11.1</a>
+  <strong>2023-07-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.2">v3.11.2</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.11.1 release notes</summary><ul>
-<li>Fixed detection of user profile pages which have certain special characters in their display name</li>
-<li>Fixed hiding the "Show when sidebar is hidden" option when the "Hide Explore" option is disabled in desktop mode</li>
+  <details><summary>v3.11.2 release notes</summary><ul>
+<li>Fixed uninverted Follow buttons not having a text colour in some places</li>
+<li>Fixed some french translations</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
