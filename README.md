@@ -3,6 +3,13 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2023-07-13</strong> – <a href="https://github.com/insin/astro-lazy-youtube-embed">astro-lazy-youtube-embed</a> <a href="https://github.com/insin/astro-lazy-youtube-embed/releases/tag/v0.0.2">v0.0.2</a>
+  <div><em>Embed YouTube videos with a static placeholder which only embeds when you click</em></div>
+  <details><summary>v0.0.2 release notes</summary><ul>
+<li>Added <code>homepage</code> to package.json for Astro Integrations</li>
+</ul></details>
+</li>
+<li>
   <strong>2023-07-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.2">v3.11.2</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
   <details><summary>v3.11.2 release notes</summary><ul>
@@ -33,11 +40,6 @@
   <div><em>Really ignore ignored users</em></div>
   <details><summary>v1.2 release notes</summary><p>Updated for new theme</p>
 <p>Added re-striping of posts so it doesn't look weird when posts are hidden</p></details>
-</li>
-<li>
-  <strong>2021-11-19</strong> – <a href="https://github.com/insin/cookdandbombd-ignore-topics">cookdandbombd-ignore-topics</a> <a href="https://github.com/insin/cookdandbombd-ignore-topics/releases/tag/v1.5">v1.5</a>
-  <div><em>Ignore topics and forums, and other topic list tweaks</em></div>
-  <details><summary>v1.5 release notes</summary><p>Fixed alternate striping of topics when ignored topics are hidden</p></details>
 </li>
 </ul>
 <!-- /RECENT_RELEASES -->
