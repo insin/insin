@@ -3,6 +3,21 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2023-07-24</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.12.0">v3.12.0</a>
+  <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
+  <details><summary>v3.12.0 release notes</summary><ul>
+<li>Added an option to replace the X logo</li>
+<li>Added support for the mobile media viewer - Blue checks are now replaced</li>
+<li>Fixed Follow/Unfollow button styling in the mobile media viewer when using "Uninvert Follow buttons"</li>
+<li>Fixed the page not being processed when the mobile media viewer is closed</li>
+</ul>
+<hr>
+<p>Available in the following extension stores:</p>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
+<h2>Screenshots</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/04b40b77-d05c-4555-9ff3-1055b395a9ac"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/04b40b77-d05c-4555-9ff3-1055b395a9ac" alt="replace-logo" style="max-width: 100%;"></a></p></details>
+</li>
+<li>
   <strong>2023-07-19</strong> – <a href="https://github.com/insin/astro-lazy-youtube-embed">astro-lazy-youtube-embed</a> <a href="https://github.com/insin/astro-lazy-youtube-embed/releases/tag/v0.1.0">v0.1.0</a>
   <div><em>Embed YouTube videos with a static placeholder which only embeds when you click</em></div>
   <details><summary>v0.1.0 release notes</summary><h2>Breaking changes</h2>
@@ -24,18 +39,6 @@
 </ul>
 </li>
 </ul></details>
-</li>
-<li>
-  <strong>2023-07-19</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.11.3">v3.11.3</a>
-  <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.11.3 release notes</summary><ul>
-<li>Fixed profile page detection when viewing the Subs or Highlights tab</li>
-<li>Fixed hiding the Subs tab when the profile also has a Highlights tab</li>
-<li>Fixed conflicts with the Twitter Media Assist extension</li>
-</ul>
-<hr>
-<p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2023-07-17</strong> – <a href="https://github.com/insin/comments-owl-for-hacker-news">comments-owl-for-hacker-news</a> <a href="https://github.com/insin/comments-owl-for-hacker-news/releases/tag/v2.1.1">v2.1.1</a>
