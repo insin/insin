@@ -3,19 +3,15 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-07-24</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.12.0">v3.12.0</a>
+  <strong>2023-07-25</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.12.2">v3.12.2</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.12.0 release notes</summary><ul>
-<li>Added an option to replace the X logo</li>
-<li>Added support for the mobile media viewer - Blue checks are now replaced</li>
-<li>Fixed Follow/Unfollow button styling in the mobile media viewer when using "Uninvert Follow buttons"</li>
-<li>Fixed the page not being processed when the mobile media viewer is closed</li>
+  <details><summary>v3.12.2 release notes</summary><ul>
+<li>Added support for "Liked/Retweeted by" user timelines - Blue checks are now processed in them</li>
+<li>Fixed handling of desktop media modal tweet timelines</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
-<h2>Screenshots</h2>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/04b40b77-d05c-4555-9ff3-1055b395a9ac"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/04b40b77-d05c-4555-9ff3-1055b395a9ac" alt="replace-logo" style="max-width: 100%;"></a></p></details>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2023-07-19</strong> – <a href="https://github.com/insin/astro-lazy-youtube-embed">astro-lazy-youtube-embed</a> <a href="https://github.com/insin/astro-lazy-youtube-embed/releases/tag/v0.1.0">v0.1.0</a>
