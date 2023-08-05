@@ -3,6 +3,16 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
+  <strong>2023-08-04</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.14.1">v3.14.1</a>
+  <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
+  <details><summary>v3.14.1 release notes</summary><ul>
+<li>Disabled hidden Blue check detection until we have a new way to detect them, after a Twitter change</li>
+</ul>
+<hr>
+<p>Available in the following extension stores:</p>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
+</li>
+<li>
   <strong>2023-08-03</strong> – <a href="https://github.com/insin/comments-owl-for-hacker-news">comments-owl-for-hacker-news</a> <a href="https://github.com/insin/comments-owl-for-hacker-news/releases/tag/v2.1.2">v2.1.2</a>
   <div><em>Browser extension which makes it easer to follow comment threads on Hacker News across multiple visits, allows you to annotate and mute users, and other UI tweaks and mobile UX improvements</em></div>
   <details><summary>v2.1.2 release notes</summary><ul>
@@ -11,33 +21,6 @@
 <hr>
 <p>Available in the following extension stores:</p>
 <p><a href="https://apps.apple.com/us/app/comments-owl-for-hacker-news/id6451333500" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/hn-comments-owl/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/kpoggabejgbenjahggloahnnaolmfock?authuser=0&amp;hl=en" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
-</li>
-<li>
-  <strong>2023-08-03</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.14.0">v3.14.0</a>
-  <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.14.0 release notes</summary><ul>
-<li>Renamed "Replace X logo and title" (again) to "Replace X branding changes"</li>
-<li>Post buttons are now replaced with Tweet buttons when "Replace X branding changes" is enabled</li>
-<li>Added an "Open Safari Extensions Preferences…" button to the iOS app</li>
-<li>Changes to hiding boosted Blue replies:
-<ul>
-<li>Twitter Blue users who hide their checks are now detected</li>
-<li>Associates of "verified" business accounts are now treated like any other Blue user, e.g. the associates of "verified" crypto accounts who engagement farm in the replies of users with lots of followers</li>
-</ul>
-</li>
-<li>Fixed adding the "Turn on/off Retweets" menu item to other people's lists</li>
-</ul>
-<hr>
-<p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
-<hr>
-<h2>Screenshots</h2>
-<h3>Replace "Post" buttons with "Tweet" buttons</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/748149a9-9dc1-4598-a472-2145a448bb80"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/748149a9-9dc1-4598-a472-2145a448bb80" alt="" style="max-width: 100%;"></a></p>
-<h3>Boosted replies from "shy" Blue users are detected, and  will be hidden by "Hide Twitter Blue replies"</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/eb99769f-c766-49a2-bf23-8743f11f3e73"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/eb99769f-c766-49a2-bf23-8743f11f3e73" alt="" style="max-width: 100%;"></a></p>
-<h3>New "Open Safari Extensions Preferences…" button in the iOS app</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/3db7370e-0ebc-4f51-9e89-778f54425e3e"><img width="500" src="https://github.com/insin/control-panel-for-twitter/assets/226692/3db7370e-0ebc-4f51-9e89-778f54425e3e" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2023-07-19</strong> – <a href="https://github.com/insin/astro-lazy-youtube-embed">astro-lazy-youtube-embed</a> <a href="https://github.com/insin/astro-lazy-youtube-embed/releases/tag/v0.1.0">v0.1.0</a>
