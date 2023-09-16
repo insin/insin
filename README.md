@@ -12,7 +12,7 @@
 </ul>
 </li>
 <li>Added hiding of "Verified Followers" to the option for hiding "Verified" tabs</li>
-<li>Hide the Subcriptions tab when viewing Followers/Following</li>
+<li>Hide the Subscriptions tab when viewing Followers/Following</li>
 <li>Replaced the "Post engagements" heading with "Tweet interactions"</li>
 <li>Fixed hiding Follower count metrics</li>
 <li>Fixed hiding the Subs tab when viewing a profile which has Affiliates</li>
