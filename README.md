@@ -3,33 +3,14 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-10-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.21.0">v3.21.0</a>
+  <strong>2023-10-11</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.21.1">v3.21.1</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.21.0 release notes</summary><ul>
-<li>Added replacement of the new Home logo with the Twitter birdhouse when "Replace X branding changes" is enabled</li>
-<li>Changed link headline restoration to be reversible so disabling it takes effect immediately</li>
-<li>Fixed link headline restoration not working on Notifications or Bookmarks if the replace/hide Twitter Blue checks feature is disabled</li>
+  <details><summary>v3.21.1 release notes</summary><ul>
+<li>Fixed replacing the Home icon after the new icon was changed</li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p>
-<hr>
-<h2>Screenshots</h2>
-<h3>Home icon</h3>
-<table>
-<thead>
-<tr>
-<th>Active</th>
-<th>Inactive</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/0234d1de-8fb4-45ca-83ee-4b5b1b840426"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/0234d1de-8fb4-45ca-83ee-4b5b1b840426" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/insin/control-panel-for-twitter/assets/226692/6a54b273-32c5-4923-9316-2b4356647a3b"><img src="https://github.com/insin/control-panel-for-twitter/assets/226692/6a54b273-32c5-4923-9316-2b4356647a3b" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table></details>
+<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2023-09-25</strong> – <a href="https://github.com/insin/astro-lazy-youtube-embed">astro-lazy-youtube-embed</a> <a href="https://github.com/insin/astro-lazy-youtube-embed/releases/tag/v0.2.0">v0.2.0</a>
