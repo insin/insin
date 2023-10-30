@@ -7,7 +7,7 @@
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
   <details><summary>v3.21.4 release notes</summary><ul>
 <li>Hiding the Bookmark button under tweets now also hides the new button under every timeline tweet</li>
-<li>Fixed the media button in the desktop timeline Tweet box being hidden when hiding the "For you" timeline</li>
+<li>Fixed the Media button in the desktop timeline overlapping the GIF button in the Tweet box when hiding the "For you" timeline</li>
 <li>Fixed staying on the Retweets/Shared Tweets timeline when the new Timeline settings modal is opened</li>
 </ul></details>
 </li>
