@@ -3,16 +3,15 @@
 <!-- RECENT_RELEASES -->
 <ul>
 <li>
-  <strong>2023-10-29</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.21.4">v3.21.4</a>
+  <strong>2023-12-13</strong> – <a href="https://github.com/insin/control-panel-for-twitter">control-panel-for-twitter</a> <a href="https://github.com/insin/control-panel-for-twitter/releases/tag/v3.21.5">v3.21.5</a>
   <div><em>Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers</em></div>
-  <details><summary>v3.21.4 release notes</summary><ul>
-<li>Hiding the Bookmark button under tweets now also hides the new button under every timeline tweet</li>
-<li>Fixed the Media button in the desktop timeline overlapping the GIF button in the Tweet box when hiding the "For you" timeline</li>
-<li>Fixed staying on the Retweets/Shared Tweets timeline when the new Timeline settings modal is opened</li>
-</ul>
-<hr>
-<p>Available in the following extension stores:</p>
-<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897487-f3993495-2032-44a4-b0c6-1bd1d9cc56dd.png" alt="Firefox" style="max-width: 100%;"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/control-panel-for-twitter/foccddlibbeccjiobcnakipdpkjiijjp" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897573-34b1af0a-dc5a-4aa2-a1e7-ca85d3823f9f.png" alt="Edge" style="max-width: 100%;"></a></p></details>
+  <details><summary>v3.21.5 release notes</summary><ul>
+<li>Fixed disabling the Chirp font</li>
+<li>Fixed font in restored headlines, Quote Tweets link etc.</li>
+<li>Fixed the Twitter logo sometimes not being blue</li>
+<li>Fixed the initial page not being handled when opened in the background</li>
+<li>Fixed the top-level Settings page not being handled on desktop when the sidebar is collapsed</li>
+</ul></details>
 </li>
 <li>
   <strong>2023-10-19</strong> – <a href="https://github.com/insin/comments-owl-for-hacker-news">comments-owl-for-hacker-news</a> <a href="https://github.com/insin/comments-owl-for-hacker-news/releases/tag/v2.2.0">v2.2.0</a>
