@@ -9,11 +9,10 @@
 <li>Added an option to hide the new "Pro" menu item (enabled by default as it's a Premium upsell)</li>
 <li>Hide Subscribe prompts in the timeline</li>
 <li>Removed options for hiding menu items which have been removed by Twitter</li>
-<li></li>
 </ul>
 <hr>
 <p>Available in the following extension stores:</p>
-<p><a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
+<p><a href="https://apps.apple.com/app/id1668516167?platform=iphone" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/216768643-4756e33c-1e61-41a7-9c56-9bd80f10bcc9.png" alt="Apple App Store" style="max-width: 100%;"></a> <a href="https://chrome.google.com/webstore/detail/control-panel-for-twitter" rel="nofollow"><img src="https://user-images.githubusercontent.com/226692/212897023-9e66b1b0-e1cd-44df-a4f2-3d5bda80c5f8.png" alt="Chrome" style="max-width: 100%;"></a></p></details>
 </li>
 <li>
   <strong>2023-10-19</strong> – <a href="https://github.com/insin/comments-owl-for-hacker-news">comments-owl-for-hacker-news</a> <a href="https://github.com/insin/comments-owl-for-hacker-news/releases/tag/v2.2.0">v2.2.0</a>
